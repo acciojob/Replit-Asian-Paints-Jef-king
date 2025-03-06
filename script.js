@@ -5,7 +5,7 @@ const gridContainer = document.getElementById('grid-container');
 for (let i = 1; i <= 9; i++) {
     const gridItem = document.createElement('div');
     gridItem.classList.add('grid-item');
-    gridItem.id = `grid-item-${i}`;
+    gridItem.id = `${i}`;
     gridItem.textContent = i;
     gridContainer.appendChild(gridItem);
 }
