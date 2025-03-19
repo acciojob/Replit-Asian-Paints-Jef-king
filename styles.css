@@ -6,9 +6,9 @@
             margin: 20px auto;
             width: 330px;
         }
-.grid-container>div:nth-child(3){
+/* .grid-container>div:nth-child(3){
 	background-color:#ff0000 !important;
-}
+} */
 
         .grid-item {
             background-color: transparent;
