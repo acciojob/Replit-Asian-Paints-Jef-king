@@ -6,8 +6,8 @@
             margin: 20px auto;
             width: 330px;
         }
-#3{
-	background-color:rgb(255, 0, 0);
+div#3.grid-item{
+	background-color:rgb(255, 0, 0)!important;
 }
 
         .grid-item {
